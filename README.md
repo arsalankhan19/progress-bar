@@ -21,3 +21,7 @@ A progress bar that loads from 0 to 100% in n seconds and queues multiple loadin
 > Progress Bar Demo
 
 ![](./images/4.gif)
+
+### View it live on -
+
+https://arsalankhan19.github.io/progress-bar/
